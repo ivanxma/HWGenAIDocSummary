@@ -16,4 +16,6 @@ myconfig = {
 ```
 
 # 4. To execute
-#	streamlit run main.py
+```
+	streamlit run main.py
+```
